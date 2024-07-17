@@ -1,7 +1,7 @@
 name: login_view2_lego
 description: "Login view2 lego"
 #publish_to: 'none'
-#repository: https://github.com/melodysdreamj/lego
+repository: https://github.com/flutter-lego/login_view2_lego
 
 version: 1.0.0
 
